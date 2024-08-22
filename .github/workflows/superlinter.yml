@@ -1,0 +1,7 @@
+name: super-linter
+on: push
+
+
+Jobs:
+super-lint:
+name: entercode 
